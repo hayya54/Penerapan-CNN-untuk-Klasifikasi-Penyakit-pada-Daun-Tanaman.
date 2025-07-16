@@ -1,0 +1,1 @@
+# Penerapan-CNN-untuk-Klasifikasi-Penyakit-pada-Daun-Tanaman.
